@@ -3,7 +3,7 @@ Hotel Booking EDA Data Analysis Python
 
 
 Hotel Booking EDA Data Analysis Python
-Type text or HTML
+
 <!-- wp:paragraph -->
 <p>In this project, we conducted a comprehensive data analysis on a hotel booking dataset to identify key issues affecting booking performance and revenue.</p>
 <!-- /wp:paragraph -->
